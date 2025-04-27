@@ -50,7 +50,7 @@ pip install numpy matplotlib pandas ipywidgets
 Running the Code
 Clone the repository:
 
-git clone https://github.com/yourusername/Intelligent-Agent-Types-Demo.git
+git clone https://github.com/NimnadiDNWA/Intelligent-Agent-Types-Demo.git
 cd Intelligent-Agent-Types-Demo
 
 Run the Python scripts in your preferred environment (Jupyter Notebook, Python IDE, etc.).
